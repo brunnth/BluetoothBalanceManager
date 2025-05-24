@@ -1,2 +1,2 @@
 # BluetoothBalanceManager
-Easy to adjust balance with profilehandler
+Easy to adjust audio balance Save in different profiles
