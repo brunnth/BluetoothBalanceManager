@@ -1,2 +1,2 @@
 # BluetoothBalanceManager
-Easy to adjust only balance with different profiles
+Easy to adjust only balance with profilehandler
